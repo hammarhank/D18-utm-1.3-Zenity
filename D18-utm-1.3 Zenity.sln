@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "D18-utm-1.3 Zenity", "D18-utm-1.3 Zenity.csproj", "{9F870869-7740-4C4D-8A88-4E7AC4A11DF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F870869-7740-4C4D-8A88-4E7AC4A11DF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F870869-7740-4C4D-8A88-4E7AC4A11DF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F870869-7740-4C4D-8A88-4E7AC4A11DF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F870869-7740-4C4D-8A88-4E7AC4A11DF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9AB68D9-F2B2-4CEB-BC48-A4D8567D69D4}
+	EndGlobalSection
+EndGlobal
